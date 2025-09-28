@@ -14,7 +14,7 @@
 
 ![[Steam](https://steamcommunity.com/profiles/76561199112093329/)](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-https://steamcommunity.com/profiles/76561199112093329/
+![Steam][https://steamcommunity.com/profiles/76561199112093329/]
 
 
 
